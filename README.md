@@ -23,7 +23,7 @@
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1zYm6c58BYfRDBc9CihzrJm9-INEmyyvH?usp=sharing)
 
 - **시연 영상**:  
-  [![폐결절 찾는 영상]()
+  [![폐결절 찾는 영상](https://github.com/donghyun0518/pilot/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
 
 ---
 
