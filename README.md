@@ -13,7 +13,7 @@
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
-  ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+[![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
 
 ---
 
